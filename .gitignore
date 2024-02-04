@@ -1,3 +1,7 @@
 __pycache__
 .env
 .learn
+/workspaces/Isa-Random-Forest/data/processed/clean_test.csv
+/workspaces/Isa-Random-Forest/data/processed/clean_train.csv
+/workspaces/Isa-Random-Forest/src/Decision_tree_final_random.sav
+/workspaces/Isa-Random-Forest/src/Random_Forest_def.sav
